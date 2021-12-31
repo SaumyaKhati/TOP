@@ -1,0 +1,20 @@
+.paragraph {
+    background-color: lightcoral;
+    font-family: Verdana, 'Times New Roman', sans-serif;
+
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#green {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
